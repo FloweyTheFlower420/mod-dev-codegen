@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.floweytheflower420.moddevcodegen
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
